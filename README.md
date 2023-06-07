@@ -1,6 +1,11 @@
 <html>
     <head>
         <meta charset="UTF-8">
+        <style>
+            a {
+                margin: 10px;
+            }
+        </style>
     </head>
     <body>
         <a href="https://github.com/LozhkinIurii">My GitHub</a>
