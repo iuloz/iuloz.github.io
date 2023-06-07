@@ -6,7 +6,7 @@
                 margin: 5px;
             }
             body {
-                background-image: url("./background.jpg");
+                background-image: url("./background.png");
                 background-repeat: no-repeat;
                 background-size: cover;
             }
