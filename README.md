@@ -9,6 +9,7 @@
                 background-image: url("./background.png");
                 background-repeat: no-repeat;
                 background-size: cover;
+                color:rgb(112, 189, 252);
             }
         </style>
     </head>
