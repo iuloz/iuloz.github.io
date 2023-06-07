@@ -3,7 +3,7 @@
         <meta charset="UTF-8">
         <style>
             a {
-                margin: 10px;
+                margin: 7px;
             }
         </style>
     </head>
