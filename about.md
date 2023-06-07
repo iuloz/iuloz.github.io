@@ -22,6 +22,7 @@
             <li>SQL</li>
             <li>IoT (Arduino)</li>
             <li>Networking Technologies</li>
+        <p></p>
         <h3>Language skills</h3>
             <li>Russian - native</li>
             <li>English - fluent</li>
