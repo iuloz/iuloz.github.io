@@ -1,6 +1,11 @@
 <html>
     <head>
         <meta charset="UTF-8">
+        <style>
+            a {
+                margin: 5px;
+            }
+        </style>
     </head>
     <body>
         <a href="./about.html">About & Skills</a>
