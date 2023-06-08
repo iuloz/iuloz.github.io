@@ -3,7 +3,7 @@
         <meta charset="UTF-8">
         <style>
             .info {
-                margin: 5px;
+                margin-right: 10px;
             }
         </style>
     </head>

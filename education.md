@@ -2,14 +2,14 @@
     <head>
         <meta charset="UTF-8">
         <style>
-            a {
-                margin: 5px;
+            .info {
+                margin-right: 10px;
             }
         </style>
     </head>
     <body>
-        <a href="https://lozhkiniurii.github.io/about">About & Skills</a>
-        <a href="https://lozhkiniurii.github.io/experience">Work experience</a>
+        <a class="info" href="https://lozhkiniurii.github.io/about">About & Skills</a>
+        <a class="info" href="https://lozhkiniurii.github.io/experience">Work experience</a>
         <br/><br/>
         <h2>Education & Courses</h2>
         <h3>Education</h3>
