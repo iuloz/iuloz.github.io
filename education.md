@@ -10,7 +10,7 @@
     <body>
         <a href="./about.html">About & Skills</a>
         <a href="./experience.html">Work experience</a>
-        <br/>
+        <br/><br/>
         <h2>Education & Courses</h2>
         <h3>Education</h3>
             <li>Software engineering, bachelor’s degree, Tampere University of Applied Sciences, Tampere, Finland. 24.8.2021 – present</li>

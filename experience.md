@@ -10,7 +10,7 @@
     <body>
         <a href="./about.html">About & Skills</a>
         <a href="./education.html">Education & Courses</a>
-        <br/>
+        <br/><br/>
         <h2>Work experience</h2>
         <h3>IT-related</h3>
         <h3>Non-IT related</h3>

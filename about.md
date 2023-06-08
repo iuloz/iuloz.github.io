@@ -10,7 +10,7 @@
     <body>
         <a href="./education.html">Education & Courses</a>
         <a href="./experience.html">Work experience</a>
-        <br/>
+        <br/><br/>
         <h2>About & Skills</h2>
         <p>
             I am Software Engineering student at Tampere University of Applied Sciences.
