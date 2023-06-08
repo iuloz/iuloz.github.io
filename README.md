@@ -10,6 +10,6 @@
     <body>
         <a href="./about.html">About & Skills</a>
         <a href="./education.html">Education & Courses</a>
-        <a href="./workexperience.html">Work experience</a>
+        <a href="./experience.html">Work experience</a>
     </body>
 </html>
