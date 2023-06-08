@@ -14,6 +14,6 @@
         <br/><br/>
         <img src="./photo.png" width="252" height="300">
         <br/><br/>
-        <p>Email: lozhkinyulo@gmail.com<br/>Phone: +358401282892</p>
+        <p>Iurii Lozhkin<br/>Email: lozhkinyulo@gmail.com<br/>Phone: +358401282892</p>
     </body>
 </html>
