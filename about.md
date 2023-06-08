@@ -2,14 +2,6 @@
     <head>
         <meta charset="UTF-8">
     </head>
-    <style>
-            body {
-                background-image: url("./background.png");
-                background-repeat: no-repeat;
-                background-size: cover;
-                color:rgb(112, 189, 252);
-            }
-        </style>
     <body>
         <p>
             I am Software Engineering student at Tampere University of Applied Sciences.
