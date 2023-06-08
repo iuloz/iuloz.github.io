@@ -8,8 +8,8 @@
         </style>
     </head>
     <body>
-        <a href="./about.html">About & Skills</a>
-        <a href="./education.html">Education & Courses</a>
+        <a href="https://lozhkiniurii.github.io/about">About & Skills</a>
+        <a href="https://lozhkiniurii.github.io/education">Education & Courses</a>
         <br/><br/>
         <h2>Work experience</h2>
         <h3>IT-related</h3>
