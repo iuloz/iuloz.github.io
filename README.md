@@ -5,6 +5,12 @@
             a {
                 margin: 5px;
             }
+            p {
+                position: inherit;
+            }
+            img {
+                float: center;
+            }
         </style>
     </head>
     <body>
@@ -13,7 +19,7 @@
         <a href="https://lozhkiniurii.github.io/experience">Work experience</a>
         <br/><br/>
         <img src="./photo.png" width="252" height="300">
-        <p>Email: lozhkinyulo@gmail.com</p>
-        <p>Phone: +358401282892</p>
+        <br/>
+        <p>Email: lozhkinyulo@gmail.com<br/>Phone: +358401282892</p>
     </body>
 </html>
