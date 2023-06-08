@@ -10,8 +10,8 @@
     <body>
         <a class="info" href="https://lozhkiniurii.github.io/about">About & Skills</a>
         <a class="info" href="https://lozhkiniurii.github.io/education">Education & Courses</a>
+        <span class="info">Work experience</span>
         <br/><br/>
-        <h2>Work experience</h2>
         <h3>IT-related</h3>
         <h3>Non-IT related</h3>
         <li><b>1Ketju Oy, construction worker, 1.2022 – present day.</b><br/>Cleaning on construction site, moving building materials, different small tasks.</li>

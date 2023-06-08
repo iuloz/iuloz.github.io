@@ -9,9 +9,9 @@
     </head>
     <body>
         <a class="info" href="https://lozhkiniurii.github.io/about">About & Skills</a>
+        <span class="info">Education & Courses</span>
         <a class="info" href="https://lozhkiniurii.github.io/experience">Work experience</a>
         <br/><br/>
-        <h2>Education & Courses</h2>
         <h3>Education</h3>
             <li>Software engineering, bachelor’s degree, Tampere University of Applied Sciences, Tampere, Finland. 24.8.2021 – present</li>
             <li>Construction engineer, master’s degree, Izhevsk State Technical University, Izhevsk, Russia. 2012 – 2014</li>

@@ -8,10 +8,10 @@
         </style>
     </head>
     <body>
+        <span class="info">About & Skills</span>
         <a class="info" href="https://lozhkiniurii.github.io/education">Education & Courses</a>
         <a class="info" href="https://lozhkiniurii.github.io/experience">Work experience</a>
         <br/><br/>
-        <h2>About & Skills</h2>
         <p>
             I am Software Engineering student at Tampere University of Applied Sciences.
             In between coding I like fishing with spinning tackle, cross-country skiing, videogames and, of course, spending time with my family.
