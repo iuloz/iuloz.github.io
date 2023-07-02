@@ -17,6 +17,7 @@
         <br/><br/>
         <h3>IT-related</h3>
         <li><b>Tampere University of Applied Sciences, internship, 02.05.2023 – 23.6.2023.</b><br/>Working in the team of three people on the publishing web app, making it able to add text, images, videos, audio files and edit all those to make a guidebook.</li>
+        <br/>
         <h3>Non-IT related</h3>
         <li><b>1Ketju Oy, construction worker, 1.2022 – present day.</b><br/>Cleaning on construction site, moving building materials, different small tasks.</li>
         <li><b>HR Yhtiöt Oy, construction worker, 14.4.2021 – 14.7.2021.</b><br/>Construction worker tasks. Cleaning of construction site, moving building materials, different small tasks.</li>
