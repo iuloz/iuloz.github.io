@@ -23,15 +23,18 @@
             <li>C++</li>
             <li>Java</li>
             <li>Python</li>
+            <li>Bash</li>
             <li>Linux</li>
-            <li>Git</li>
             <li>JavaScript</li>
             <li>HTML</li>
             <li>CSS</li>
-            <li>ReactJS</li>
+            <li>React</li>
+            <li>React Native</li>
             <li>Node.js</li>
+            <li>Express</li>
             <li>Docker</li>
-            <li>SQL</li>
+            <li>SQLite</li>
+            <li>PostgreSQL</li>
             <li>IoT (Arduino)</li>
             <li>Networking Technologies</li>
         <br/>
