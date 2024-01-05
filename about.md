@@ -24,6 +24,7 @@
             <li>Java</li>
             <li>Python</li>
             <li>Bash</li>
+            <li>Shell scripting</li>
             <li>Linux</li>
             <li>JavaScript</li>
             <li>HTML</li>
@@ -35,7 +36,7 @@
             <li>Docker</li>
             <li>SQLite</li>
             <li>PostgreSQL</li>
-            <li>IoT (Arduino)</li>
+            <li>Embedded Systems (Arduino)</li>
             <li>Networking Technologies</li>
         <br/>
         <h3>Language skills</h3>
