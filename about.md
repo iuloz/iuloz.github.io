@@ -17,8 +17,8 @@
         <br/><br/>
         <p>
             A keen interest in various IT domains. Always into writing clean, efficient code and solving complex problems. I have most experience in JavaScript language, frontend development (React). Little bit less in backend development, Express particularly.
-            In between coding I like fishing with spinning tackle, cross-country skiing, table tennis and videogames.
         </p>
+        <p>In between coding I like fishing with spinning tackle, cross-country skiing, table tennis and videogames.</p>
         <h3>Software Engineering Skills</h3>
             <li>C++</li>
             <li>Java</li>
