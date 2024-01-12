@@ -16,8 +16,8 @@
         <a class="info" href="https://lozhkiniurii.github.io/experience">Work experience</a>
         <br/><br/>
         <p>
-            I am Software Engineering student at Tampere University of Applied Sciences.
-            In between coding I like fishing with spinning tackle, cross-country skiing, videogames and, of course, spending time with my family.
+            A keen interest in various IT domains. Always into writing clean, efficient code and solving complex problems. I have most experience in JavaScript language, frontend development (React). Little bit less in backend development, Express particularly.
+            In between coding I like fishing with spinning tackle, cross-country skiing, table tennis and videogames.
         </p>
         <h3>Software Engineering Skills</h3>
             <li>C++</li>
