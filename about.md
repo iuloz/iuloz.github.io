@@ -35,7 +35,6 @@
             <li>Express</li>
             <li>Docker</li>
             <li>CI/CD</li>
-            <li>AWS</li>
             <li>SQLite</li>
             <li>PostgreSQL</li>
             <li>Embedded Systems (Arduino)</li>
