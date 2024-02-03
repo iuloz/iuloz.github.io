@@ -16,9 +16,9 @@
         <a class="info" href="https://lozhkiniurii.github.io/experience">Work experience</a>
         <br/><br/>
         <p>
-            A keen interest in various IT domains. Always into writing clean, efficient code and solving complex problems. I have most experience in JavaScript language, frontend development (React). Little bit less in backend development, Express particularly.
+            A keen interest in various IT domains. Always into writing clean, efficient code and solving complex problems. Effective in teamwork, good problem solving and independent decision-making skills, not afraid of taking responsibility. Ready to invest time and effort to further studies.
         </p>
-        <p>In between coding I like fishing with spinning tackle, cross-country skiing, table tennis and videogames.</p>
+        <!-- <p>In between coding I like fishing with spinning tackle, cross-country skiing, table tennis and videogames.</p> -->
         <h3>Software Engineering Skills</h3>
             <li>C++</li>
             <li>Java</li>
