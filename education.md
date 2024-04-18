@@ -5,12 +5,15 @@
             .info {
                 margin-right: 10px;
             }
+            a {
+                text-decoration: underline;
+            }
         </style>
     </head>
     <body>
-        <a class="info" href="https://lozhkiniurii.github.io/about">About & Skills</a>
+        <a class="info" href="https://iuloz.github.io/about">About & Skills</a>
         <span class="info">Education & Courses</span>
-        <a class="info" href="https://lozhkiniurii.github.io/experience">Work experience</a>
+        <a class="info" href="https://iuloz.github.io/experience">Work experience</a>
         <br/><br/>
         <h3>Education</h3>
             <li>Software engineering, bachelor’s degree, Tampere University of Applied Sciences, Tampere, Finland. 24.8.2021 – present</li>
@@ -22,6 +25,6 @@
             <li>Finnish language course, Galimatias Oy, Helsinki, Finland. 1.2020 – 1.2021</li>
             <li>English language course, Izhevsk State Technical University, Izhevsk, Russia. 2011 - 2014</li>
         <br/>
-        <a href="https://lozhkiniurii.github.io"><< Back to Homepage</a>
+        <a href="https://iuloz.github.io"><< Back to Homepage</a>
     </body>
 </html>

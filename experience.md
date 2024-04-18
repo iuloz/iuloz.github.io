@@ -5,14 +5,19 @@
             .info {
                 margin-right: 10px;
             }
+            a {
+                text-decoration: underline;
+            }
         </style>
     </head>
     <body>
-        <a class="info" href="https://lozhkiniurii.github.io/about">About & Skills</a>
-        <a class="info" href="https://lozhkiniurii.github.io/education">Education & Courses</a>
+        <a class="info" href="https://iuloz.github.io/about">About & Skills</a>
+        <a class="info" href="https://iuloz.github.io/education">Education & Courses</a>
         <span class="info">Work experience</span>
         <br/><br/>
         <h3>IT-related</h3>
+        <li><b>Tampere University of Applied Sciences, internship, 02.05.2023 – 23.6.2023.</b><br/>Working in the team of three people on the publishing web app, making it able to add text, images, videos, audio files and edit all those to make a guidebook.</li>
+        <br/>
         <h3>Non-IT related</h3>
         <li><b>1Ketju Oy, construction worker, 1.2022 – present day.</b><br/>Cleaning on construction site, moving building materials, different small tasks.</li>
         <li><b>HR Yhtiöt Oy, construction worker, 14.4.2021 – 14.7.2021.</b><br/>Construction worker tasks. Cleaning of construction site, moving building materials, different small tasks.</li>
@@ -23,6 +28,6 @@
         <li><b>Udmurtneft PAO, Production and technical department engineer, 11.4.2016 – 27.2.2017.</b><br/>I checked project organization’s work (drawings and cost accounting) and took part in meetings.</li>
         <li><b>SU-18 OOO, foreman, 5.11.2014 – 25.5.2015.</b><br/>I managed and supervised the work quality and construction timing of the contractors. I worked with drawings, made a construction documents, attended meetings.</li>
         <br/>
-        <a href="https://lozhkiniurii.github.io"><< Back to Homepage</a>
+        <a href="https://iuloz.github.io"><< Back to Homepage</a>
     </body>
 </html>
