@@ -16,6 +16,25 @@
         <span class="info">Work experience</span>
         <br/><br/>
         <h3>IT-related</h3>
+        <b>Hiava Oy, Software Developer, 01.06.2024 – present.</b>
+            <ul><br/>
+                <li>
+                    Developing a new version of the existing old web app on Next.js with its API Routes, TypeScript, React,
+                    MongoDB, Prisma ORM, Docker and GitHub Actions.
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    Maintaining Linux server, where both old and new web apps are deployed, related to it PostgreSQL
+                    database and MongoDB database for a new version of web app.
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    Collaborating in the group of 3-5 people to set goals, share ideas and help each other.
+                </li>
+            </ul>
+            <br/>
             <b>Hiava Oy, Software Development Intern, 01.03.2024 – present.</b>
             <ul><br/>
                 <li>

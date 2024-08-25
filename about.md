@@ -19,13 +19,14 @@
             A keen interest in various IT domains. Always into writing clean, efficient code and solving complex problems. Effective in teamwork, good problem solving and independent decision-making skills, not afraid of taking responsibility. Ready to invest time and effort to further studies.
         </p>
         <h3>Software Engineering Skills</h3>
+            <li>JavaScript</li>
+            <li>TypeScript</li>
             <li>C++</li>
             <li>Java</li>
             <li>Python</li>
             <li>Bash</li>
             <li>Shell scripting</li>
             <li>Linux</li>
-            <li>JavaScript</li>
             <li>HTML</li>
             <li>CSS</li>
             <li>React</li>
@@ -34,11 +35,12 @@
             <li>Express</li>
             <li>Docker</li>
             <li>CI/CD</li>
+            <li>GitHub Actions</li>
             <li>AWS</li>
-            <li>SQLite</li>
+            <li>MongoDB</li>
             <li>PostgreSQL</li>
+            <li>PrismaORM</li>
             <li>Embedded Systems (Arduino)</li>
-            <li>Networking Technologies</li>
         <br/>
         <h3>Language skills</h3>
             <li>Russian - native</li>
