@@ -24,13 +24,9 @@
                     Developing a new web app on Next.js with its API Routes, TypeScript, React, MongoDB, Prisma ORM,
                     Docker and GitHub Actions.
                 </li>
-            </ul>
-            <ul>
                 <li>
                     Maintaining the Linux server, where the web app is deployed.
                 </li>
-            </ul>
-            <ul>
                 <li>
                     Collaborating in the group of 3-5 people to set goals, share ideas and help each other.
                 </li>
@@ -44,13 +40,9 @@
                     Maintaining, fixing and implementing new features to existing web application, implemented using React,
                     Python, PostgreSQL, Docker and GitHub Actions.
                 </li>
-            </ul>
-            <ul>
                 <li>
                     Maintaining the Linux server, where the web app is deployed.
                 </li>
-            </ul>
-            <ul>
                 <li>
                     Collaborating in group of 3-5 people to set goals, share ideas and help each other.
                 </li>
