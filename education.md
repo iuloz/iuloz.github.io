@@ -16,9 +16,21 @@
         <a class="info" href="https://iuloz.github.io/experience">Work experience</a>
         <br/><br/>
         <h3>Education</h3>
-            <li>Software engineering, bachelor’s degree, Tampere University of Applied Sciences, Tampere, Finland. 24.8.2021 – present</li>
-            <li>Construction engineer, master’s degree, Izhevsk State Technical University, Izhevsk, Russia. 2012 – 2014</li>
-            <li>Construction engineer, bachelor’s degree, Izhevsk State Technical University, Izhevsk, Russia. 2008 – 2012</li>
+            <li>
+                <b>Software engineering, bachelor’s degree</b><br/>
+                <span>Tampere University of Applied Sciences, Finland</span><br/>
+                <span>24.8.2021 – present</span>
+            </li><br/>
+            <li>
+                <b>Construction engineer, master’s degree</b><br/>
+                <span>Izhevsk State Technical University, Russia</span><br/>
+                <span>2012 – 2014</span>
+            </li><br/>
+            <li>
+                <b>Construction engineer, bachelor’s degree</b><br/>
+                <span>Izhevsk State Technical University, Russia</span><br/>
+                <span>2008 – 2012</span>
+            </li><br/>
         <br/>
         <a href="https://iuloz.github.io"><< Back to Homepage</a>
     </body>
