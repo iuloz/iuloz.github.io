@@ -17,8 +17,8 @@
         <br/><br/>
         <h3>IT-related</h3>
         <b>Software Developer</b><br/>
-        <p>Hiava Oy</p><br/>
-        <p>01.06.2024 – present</p>
+        <span>Hiava Oy</span><br/>
+        <span>01.06.2024 – present</span>
             <ul><br/>
                 <li>
                     Developing a new web app on Next.js with its API Routes, TypeScript, React, MongoDB, Prisma ORM,
@@ -37,8 +37,8 @@
             </ul>
             <br/>
             <b>Software Development Intern</b><br/>
-            <p>Hiava Oy</p><br/>
-            <p>01.03.2024 – 31.05.2024</p>
+            <span>Hiava Oy</span><br/>
+            <span>01.03.2024 – 31.05.2024</span>
             <ul><br/>
                 <li>
                     Maintaining, fixing and implementing new features to existing web application, implemented using React,
@@ -57,8 +57,8 @@
             </ul>
             <br/>
         <b>Software Development Intern</b><br/>
-        <p>Tampere University of Applied Sciences</p><br/>
-        <p>02.05.2023 – 23.6.2023</p>
+        <span>Tampere University of Applied Sciences</span><br/>
+        <span>02.05.2023 – 23.6.2023</span>
         <ul><br/>
             <li>
                 Collaborating within a three-person team to develop a publishing web application, using JavaScript,
