@@ -19,14 +19,13 @@
         <b>Hiava Oy, Software Developer, 01.06.2024 – present.</b>
             <ul><br/>
                 <li>
-                    Developing a new version of the existing old web app on Next.js with its API Routes, TypeScript, React,
-                    MongoDB, Prisma ORM, Docker and GitHub Actions.
+                    Developing a new web app on Next.js with its API Routes, TypeScript, React, MongoDB, Prisma ORM,
+                    Docker and GitHub Actions.
                 </li>
             </ul>
             <ul>
                 <li>
-                    Maintaining Linux server, where both old and new web apps are deployed, related to it PostgreSQL
-                    database and MongoDB database for a new version of web app.
+                    Maintaining the Linux server, where the web app is deployed.
                 </li>
             </ul>
             <ul>
@@ -35,15 +34,16 @@
                 </li>
             </ul>
             <br/>
-            <b>Hiava Oy, Software Development Intern, 01.03.2024 – present.</b>
+            <b>Hiava Oy, Software Development Intern, 01.03.2024 – 31.05.2024</b>
             <ul><br/>
                 <li>
-                    Maintaining, fixing and implementing new features to existing web application, built with React (frontend) and Python (backend) with use of Docker and GitHub Actions.
+                    Maintaining, fixing and implementing new features to existing web application, implemented using React,
+                    Python, PostgreSQL, Docker and GitHub Actions.
                 </li>
             </ul>
             <ul>
                 <li>
-                    Maintaining Linux server, where the web app is deployed, and related PostgreSQL database.
+                    Maintaining the Linux server, where the web app is deployed.
                 </li>
             </ul>
             <ul>
@@ -52,10 +52,21 @@
                 </li>
             </ul>
             <br/>
-        <b>Tampere University of Applied Sciences, internship, 02.05.2023 – 23.6.2023.</b><br/>
+        <b>Software Development Intern</b><br/>
+        <p>Tampere University of Applied Sciences</p>
+        <p>02.05.2023 – 23.6.2023</p>
         <ul><br/>
             <li>
-                Working in the team of three people on the publishing web app, making it able to add text, images, videos, audio files and edit all those to make a guidebook.
+                Collaborating within a three-person team to develop a publishing web application, using JavaScript,
+                React, Git.
+            </li>
+            <li>
+                Implementing functionality to seamlessly add text, images, videos, and audio files to enhance the
+                platform's multimedia capabilities.
+            </li>
+            <li>
+                Contributing to the development of features allowing users to edit and manipulate text, images, videos,
+                and audio, facilitating the creation of comprehensive guidebooks.
             </li>
         </ul>
         <br/>
