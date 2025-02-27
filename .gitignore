@@ -1,1 +1,5 @@
 template.html
+.idea/
+dist/
+node_modules
+src
