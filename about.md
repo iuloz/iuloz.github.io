@@ -16,14 +16,18 @@
         <a class="info" href="https://iuloz.github.io/experience">Work experience</a>
         <br/><br/>
         <p>
-            A keen interest in various IT domains. Always into writing clean, efficient code and solving complex problems. Effective in teamwork, good problem solving and independent decision-making skills, not afraid of taking responsibility. Ready to invest time and effort to further studies.
+            A keen interest in various IT domains. 
+            Always into writing clean, efficient code and solving complex problems. 
+            Effective in teamwork, good problem solving and independent decision-making skills, 
+            not afraid of taking responsibility. Ready to invest time and effort to further studies.
         </p>
+        <p>I like spinning fishing, skiing, bouldering, playing table tennis and volleyball.</p>
         <h3>Technical skills</h3>
             <li>JavaScript</li>
             <li>TypeScript</li>
             <li>Java</li>
-            <li>C++</li>
             <li>Python</li>
+            <li>C++</li>
             <li>React</li>
             <li>React Native</li>
             <li>Next.js</li>

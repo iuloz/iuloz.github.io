@@ -25,6 +25,9 @@
                     Docker and GitHub Actions.
                 </li>
                 <li>
+                    Worked on existing web app using JavaScript, React, Python, PostgreSQL, Docker and GitHub Actions.
+                </li>
+                <li>
                     Maintaining the Linux server, where the web app is deployed.
                 </li>
                 <li>
@@ -38,7 +41,7 @@
             <ul><br/>
                 <li>
                     Maintaining, fixing and implementing new features to existing web application, implemented using React,
-                    Python, PostgreSQL, Docker and GitHub Actions.
+                    JavaScript, Python, PostgreSQL, Docker and GitHub Actions.
                 </li>
                 <li>
                     Maintaining the Linux server, where the web app is deployed.
@@ -53,16 +56,8 @@
         <span>02.05.2023 – 23.6.2023</span>
         <ul><br/>
             <li>
-                Collaborating within a three-person team to develop a publishing web application, using JavaScript,
-                React, Git.
-            </li>
-            <li>
-                Implementing functionality to seamlessly add text, images, videos, and audio files to enhance the
-                platform's multimedia capabilities.
-            </li>
-            <li>
-                Contributing to the development of features allowing users to edit and manipulate text, images, videos,
-                and audio, facilitating the creation of comprehensive guidebooks.
+                Collaborating within a three-person team to develop a guidebooks publishing web application, using 
+                JavaScript, React, Git. 
             </li>
         </ul>
         <br/>
