@@ -20,6 +20,6 @@
         <p>
             Iurii Lozhkin<br/>Email: lozhkinyulo@gmail.com<br/>Phone: +358401282892<br/><a href="https://www.linkedin.com/in/iurii-lozhkin-60a323223/">LinkedIn</a>
         </p>
-        <a href="assets/CV-Iurii-Lozhkin.pdf" download>Download My CV</a>
+        <a href="assets/cv_iurii_lozhkin.pdf" download>Download My CV</a>
     </body>
 </html>
