@@ -20,8 +20,8 @@
         <p>
             Iurii Lozhkin<br/>Email: lozhkinyulo@gmail.com<br/>Phone: +358401282892<br/><a href="https://www.linkedin.com/in/iurii-lozhkin-60a323223/">LinkedIn</a>
         </p>
-        <a href="assets/cv_iurii_lozhkin.pdf" target="_blank">View my CV</a>
+        <a href="assets/cv_iurii_lozhkin.pdf" target="_blank">CV</a>
         <br/>
-        <a href="assets/transcript_of_records_eng_2025_04_29.pdf" target="_blank">View my Transcrip of Records</a>
+        <a href="assets/transcript_of_records_eng_2025_04_29.pdf" target="_blank">Transcrip of Records</a>
     </body>
 </html>
