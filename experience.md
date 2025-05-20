@@ -17,7 +17,7 @@
         <br/><br/>
         <h3>IT-related</h3>
         <b>Software Developer</b><br/>
-        <span>Hiava Oy, Espoo, Finland</span><br/>
+        <span>Hiava Oy, Finland</span><br/>
         <span>01.06.2024 – present</span>
             <ul><br/>
                 <li>
@@ -36,7 +36,7 @@
             </ul>
             <br/>
             <b>Software Development Intern</b><br/>
-            <span>Hiava Oy, Espoo, Finland</span><br/>
+            <span>Hiava Oy, Finland</span><br/>
             <span>01.03.2024 – 31.05.2024</span>
             <ul><br/>
                 <li>
@@ -56,8 +56,8 @@
         <span>02.05.2023 – 23.6.2023</span>
         <ul><br/>
             <li>
-                Collaborating within a three-person team to develop a guidebooks publishing web application, using 
-                JavaScript, React, Git. 
+                Collaborating within a three-person team to develop a guidebooks publishing web application, using
+                JavaScript, React, Git.
             </li>
         </ul>
         <br/>
