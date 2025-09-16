@@ -18,20 +18,23 @@
         <h3>IT-related</h3>
         <b>Software Developer</b><br/>
         <span>Hiava Oy, Finland</span><br/>
-        <span>01.06.2024 – present</span>
+        <span>01.06.2024 – 05.08.2025</span>
             <ul><br/>
                 <li>
-                    Developing a new web app on Next.js with its API Routes, TypeScript, React, MongoDB, Prisma ORM,
-                    Docker and GitHub Actions.
+                    Developed and continuously updated a new web application designed to support smarter production
+                    planning in industrial environments by calculating and visualizing metrics and KPIs. The application is
+                    implemented with Next.js with its API Routes, TypeScript, React, MongoDB, Prisma ORM, Docker, and
+                    GitHub Actions.
                 </li>
                 <li>
-                    Worked on existing web app using JavaScript, React, Python, PostgreSQL, Docker and GitHub Actions.
+                    Worked on existing problematic web application and successfully fixed it using JavaScript, React,
+                    Python, PostgreSQL, Docker, and GitHub Actions.
                 </li>
                 <li>
-                    Maintaining the Linux server, where the web app is deployed.
+                    Maintained the Linux server, where the web application was deployed.
                 </li>
                 <li>
-                    Collaborating in the group of 3-5 people to set goals, share ideas and help each other.
+                    Collaborated in the group of 3-5 people to set goals, share ideas, and help each other.
                 </li>
             </ul>
             <br/>
@@ -40,14 +43,14 @@
             <span>01.03.2024 – 31.05.2024</span>
             <ul><br/>
                 <li>
-                    Maintaining, fixing and implementing new features to existing web application, implemented using React,
-                    JavaScript, Python, PostgreSQL, Docker and GitHub Actions.
+                    Successfully maintained, fixed, and implemented new features for existing web application using React,
+                    JavaScript, Python, PostgreSQL, Docker, and GitHub Actions.
                 </li>
                 <li>
-                    Maintaining the Linux server, where the web app is deployed.
+                    Maintained the Linux server, where the web application was deployed.
                 </li>
                 <li>
-                    Collaborating in group of 3-5 people to set goals, share ideas and help each other.
+                    Collaborated in the group of 3-5 people to set goals, share ideas, and help each other.
                 </li>
             </ul>
             <br/>
@@ -56,7 +59,7 @@
         <span>02.05.2023 – 23.6.2023</span>
         <ul><br/>
             <li>
-                Collaborating within a three-person team to develop a guidebooks publishing web application, using
+                Collaborated within a three-person team to develop a guidebook publishing web application, using
                 JavaScript, React, Git.
             </li>
         </ul>

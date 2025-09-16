@@ -19,7 +19,7 @@
             <li>
                 <b>Software engineering, bachelor’s degree</b><br/>
                 <span>Tampere University of Applied Sciences, Finland</span><br/>
-                <span>24.8.2021 – present</span>
+                <span>24.08.2021 – 30.05.2025</span>
             </li><br/>
             <li>
                 <b>Construction engineer, master’s degree</b><br/>

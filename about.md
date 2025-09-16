@@ -16,10 +16,10 @@
         <a class="info" href="https://iuloz.github.io/experience">Work experience</a>
         <br/><br/>
         <p>
-            A keen interest in various IT domains. 
-            Always into writing clean, efficient code and solving complex problems. 
-            Effective in teamwork, good problem solving and independent decision-making skills, 
-            not afraid of taking responsibility. Ready to invest time and effort to further studies.
+            A keen interest in various IT domains. I feel comfortable working both in
+            team or individually. My communication skills let me get along with people
+            very quickly. I am not afraid of taking responsibility. I am ready to invest
+            time and effort in further developing of my skills even during my own time.
         </p>
         <p>I like spinning fishing, skiing, bouldering, playing table tennis and volleyball.</p>
         <h3>Technical skills</h3>
@@ -51,7 +51,7 @@
         <h3>Language skills</h3>
             <li>Russian - native</li>
             <li>English - fluent</li>
-            <li>Finnish - Intermediate (B2.1)</li>
+            <li>Finnish - Intermediate (B2.2)</li>
         <br/>
         <a href="https://iuloz.github.io"><< Back to Homepage</a>
     </body>
