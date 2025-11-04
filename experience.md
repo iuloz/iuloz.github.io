@@ -21,17 +21,20 @@
         <span>01.06.2024 – 05.08.2025</span>
             <ul><br/>
                 <li>
-                    Developed and continuously updated a new web application designed to support smarter production
-                    planning in industrial environments by calculating and visualizing metrics and KPIs. The application is
-                    implemented with Next.js with its API Routes, TypeScript, React, MongoDB, Prisma ORM, Docker, and
-                    GitHub Actions.
+                    Developed and continuously updated a new web application “LeaPP Analytics”, designed to support smarter production planning in industrial environments by calculating and visualizing metrics and KPIs. The application was implemented with Next.js with its API Routes, TypeScript, React, MongoDB, Prisma ORM, Docker, and GitHub Actions.
+                </li>
+                <li>
+                    Set up MongoDB database and Linux server for the web application.
+                </li>
+                <li>
+                    Automated building and deployment of the web application with use of Docker and GitHub Actions.
+                </li>
+                <li>
+                    Maintained the Linux server, where the web application was deployed.
                 </li>
                 <li>
                     Worked on existing problematic web application and successfully fixed it using JavaScript, React,
                     Python, PostgreSQL, Docker, and GitHub Actions.
-                </li>
-                <li>
-                    Maintained the Linux server, where the web application was deployed.
                 </li>
                 <li>
                     Collaborated in the group of 3-5 people to set goals, share ideas, and help each other.
