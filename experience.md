@@ -68,7 +68,7 @@
         </ul>
         <br/>
         <h3>Non-IT related</h3>
-        <p>More than five years as a construction engineer and construction worker.</p>
+        <p>Over 5 years of experience as a construction engineer and construction worker.</p>
         <!-- <li><b>1Ketju Oy, construction worker, 1.2022 – present day.</b><br/>Cleaning on construction site, moving building materials, different small tasks.</li>
         <li><b>HR Yhtiöt Oy, construction worker, 14.4.2021 – 14.7.2021.</b><br/>Construction worker tasks. Cleaning of construction site, moving building materials, different small tasks.</li>
         <li><b>WorkPower Rakennus Oy, construction worker, 15.1.2021 – 14.7.2021.</b><br/>Construction worker tasks. Cleaning of construction site, moving building materials, different small tasks.</li>
