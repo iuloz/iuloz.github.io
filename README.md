@@ -22,6 +22,6 @@
         </p>
         <a href="assets/cv_iurii_lozhkin.pdf" target="_blank">CV</a>
         <br/>
-        <a href="assets/transcript_of_records_eng_2025_04_29.pdf" target="_blank">Transcrip of Records</a>
+        <a href="assets/degree_certificate_bachelor_sw_engineering.pdf" target="_blank">Degree certificate</a>
     </body>
 </html>
